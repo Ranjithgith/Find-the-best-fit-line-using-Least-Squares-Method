@@ -62,7 +62,8 @@ plt.show()
 
 ## Output:
 ![best fit lin![Screenshot (1)](https://github.com/user-attachments/assets/b41174d5-5c02-42a5-840a-11e65d2254fc)
-e](sam.png)
+e](sam.png)![Screenshot (1)](https://github.com/user-attachments/assets/088027e5-4838-4f6b-94c7-5940ee03cd73)
+
 
 
 ## Result:
